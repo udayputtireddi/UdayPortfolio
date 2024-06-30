@@ -110,13 +110,15 @@ body{
 } 
 
 .FirstElement.adjusted-padding {
-  padding-top: 40px; 
+  padding-top: 20px; 
 }
 
 .FirstElement .profile-photo{
-  width: 300px;
-  height:  300px;
+  width: 400px;
+  height:  400px;
   overflow: hidden;
+  border-radius: 50%;
+  margin-left: 150px;
 }
 profile-photo .img{
   height: 100%;
