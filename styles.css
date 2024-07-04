@@ -125,6 +125,11 @@ profile-photo .img{
   width: 100%;
   transition: 0.5s;
 }
+
+.underline-me {
+  text-decoration: underline;
+}
+
 .FirstElement .profile-photo img:hover{
   transform: scale(1.2);
 }
