@@ -352,7 +352,6 @@ profile-photo .img{
   justify-content:space-between;
   flex-wrap: wrap;
   margin-top: 50px;
-  margin-bottom: 32px;
 }
 .project{
     /* padding: 30px 15px; */
@@ -365,7 +364,6 @@ profile-photo .img{
     text-align: center;
     flex-basis: 32%;
     transition: .3s;
-    margin-bottom: 32px;
 }
 .project i{
   background-color: #66ccff;
