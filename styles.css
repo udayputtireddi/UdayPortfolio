@@ -352,6 +352,7 @@ profile-photo .img{
   justify-content:space-between;
   flex-wrap: wrap;
   margin-top: 50px;
+  margin-bottom: 32px;
 }
 .project{
     /* padding: 30px 15px; */
