@@ -38,15 +38,6 @@ UdayPortfolio/
 
 ---
 
-## 🛠 Future Improvements
-
-- Add project filtering or tagging
-- Blog section using markdown or CMS
-- Dark mode toggle
-- Backend integration for contact form
-
----
-
 ## 🙋‍♂️ About Me
 
 I’m Uday Puttireddi, an aspiring Software Engineer & Data Analyst with a strong interest in AI, cloud platforms, and building scalable applications. This portfolio is a reflection of my technical journey, side projects, and learning milestones.
