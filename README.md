@@ -49,10 +49,5 @@ I’m Uday Puttireddi, an aspiring Software Engineer & Data Analyst with a stron
 - LinkedIn: [linkedin.com/in/udayputtireddi](https://linkedin.com/in/udayputtireddi)
 - Email: `udayputtireddi@gmail.com`
 
----
-
-## ⭐️ Show Your Support
-
-If you found this project helpful, feel free to ⭐️ the repository and share it!
 
  
