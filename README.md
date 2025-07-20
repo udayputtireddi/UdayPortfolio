@@ -38,16 +38,6 @@ UdayPortfolio/
 
 ---
 
-## 🧠 Features
-
-- Responsive design for desktop, tablet, and mobile.
-- Smooth scrolling and interactive animations.
-- Project showcase section with links to GitHub repos and demos.
-- Contact form or contact section with social links.
-- Resume/CV download or view option.
-
----
-
 ## 🛠 Future Improvements
 
 - Add project filtering or tagging
