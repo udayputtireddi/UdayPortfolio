@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases my work, skills, p
 
 ## 🔗 Live Demo
 
-Visit the live portfolio: [udayputtireddi.github.io/UdayPortfolio](https://udayputtireddi.github.io/UdayPortfolio)
+Visit the live portfolio: [UDAY.](https://udayputtireddi.netlify.app/)
 
 ---
 
