@@ -1,4 +1,4 @@
-# Uday Portfolio 🌐
+   # UDAY. 🌐
 
 Welcome to my personal portfolio website! This site showcases my work, skills, projects, and resume. It serves as a central hub for anyone who wants to learn more about me as a professional in the fields of software engineering, data analysis, and emerging technologies like AI and cloud computing.
 
